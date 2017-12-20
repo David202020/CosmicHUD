@@ -12,7 +12,7 @@ class Main extends PluginBase implements Listener{
   }
 }
 
-class Task extends PluginTask{
+class Muqsit extends PluginTask{
   public function __construct($plugin){
     $this->plugin = $plugin;
     parent::__construct($plugin);
